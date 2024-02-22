@@ -1,2 +1,2 @@
 # calendario
-calendario feito em c onde digita o numero do mes, fala o mes e quantidade de dias 
+Calendar program in C where you input the month number, it outputs the month name and the number of days
